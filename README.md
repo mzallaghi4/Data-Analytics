@@ -40,8 +40,11 @@ Open Jupyter Notebook and start exploring the analysis:
 **Financial Performance Evaluation**
 -- Evaluate company performance to support investment, budgeting, and management decisions.
 
-Company Profitability & Cost Analysis 
+[Company Profitability & Cost Analysis](https://github.com/mzallaghi4/Data-Analytics/blob/main/Notebooks/CompanyAnalysis.ipynb) 
 
+
+**Sales Trend Analysis**
+-- Sales Trend Analysis
 
 
 
