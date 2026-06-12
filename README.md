@@ -1,8 +1,8 @@
 # Data Analytics for Business 
 
 A collection of end-to-end data analytics projects demonstrating data cleaning, exploration, modeling, and visualization.  
-This repository provides practical examples of applying data analytics techniques to solve real-world business problems. 
-It covers how to collect, clean, analyze, visualize, and interpret data to drive informed business decisions.
+
+This repository provides practical examples of applying data analytics techniques to solve real-world business problems. It covers how to collect, clean, analyze, visualize, and interpret data to drive informed business decisions.
 
 
 
@@ -11,8 +11,9 @@ It covers how to collect, clean, analyze, visualize, and interpret data to drive
 Data is the backbone of modern businesses. 
 This repository demonstrates data analytics workflows for business applications such as:
 
-- Market trend analysis
 - Financial performance evaluation
+- Market trend analysis
+
 
 The goal is to transform raw data into actionable insights that support strategic decision-making.
 
@@ -35,6 +36,14 @@ The goal is to transform raw data into actionable insights that support strategi
 #### Notebooks
 
 Open Jupyter Notebook and start exploring the analysis:
+
+**Financial Performance Evaluation**
+-- Evaluate company performance to support investment, budgeting, and management decisions.
+
+Company Profitability & Cost Analysis 
+
+
+
 
 
 
